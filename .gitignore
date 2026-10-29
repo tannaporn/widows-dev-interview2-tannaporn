@@ -1,0 +1,6 @@
+.vs/
+widows-dev-interview2/bin/
+widows-dev-interview2/obj/
+*.user
+.env
+*.log
